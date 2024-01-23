@@ -1,3 +1,1 @@
-Developed and Managed Excel Dashboard for Bike Sales Analysis.
-Designed and operated an Excel-based dashboard to streamline bike sales data analysis.
-Implemented visualizations for key performance indicators, resulting in data-driven insights to optimize sales strategies.
+Created Power BI Dashboard for Credit Card Anomaly Detection.Designed and implemented a user-friendly Power BI dashboard to visually analyze and detect anomalies in credit card transactions, enhancing fraud detection capabilities.
